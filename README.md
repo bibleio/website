@@ -1,3 +1,3 @@
-![Banner](https://i.imgur.com/1z2iifA.png)
+## [This project has moved to the monorepo.](https://github.com/bibleio/bibleio)
 
-The main website for Bibleio. (not the web app!)
+At `apps/website`
